@@ -73,7 +73,7 @@ function reset() {
 
     //  this contribution is done .....
       document.getElementById('output').value="";
-      finalOutput.innerHTML="";git
+      finalOutput.innerHTML="";
       document.getElementById('weightOutput').innerHTML = "";
       weight="";
       
